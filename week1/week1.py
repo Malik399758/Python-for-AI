@@ -1,17 +1,18 @@
-# print("Hello World")
+print("Hello World")
+print("Welcome to Python for AI")
 
-# a = 20
-# b = 30
-# sum = a+b
+a = 20
+b = 30
+sum = a+b
 
 
-# print(sum)
+print(sum)
 
 # variables
-# number = 100
-# name = 'Yaseen'
-# b = 100.6
-# isTrue = True
+number = 100
+name = 'Yaseen'
+b = 100.6
+isTrue = True
 
 
 # print(type(number))
